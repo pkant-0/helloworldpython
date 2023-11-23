@@ -1,3 +1,3 @@
 print("hello world!")
 print("new model")
-print("adding two numbers", input(int())+input(int()))
+print("adding two numbers", 1+1)
